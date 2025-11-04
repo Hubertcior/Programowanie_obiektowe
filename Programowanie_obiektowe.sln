@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36518.9 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programowanie_obiektowe", "Programowanie_obiektowe\Programowanie_obiektowe.csproj", "{BC711E3F-940B-446A-8109-23C3C3E8A732}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1", "Lab1\Lab1.csproj", "{265A3EDE-0B22-46CF-860D-D3FDD0872225}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BC711E3F-940B-446A-8109-23C3C3E8A732}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC711E3F-940B-446A-8109-23C3C3E8A732}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC711E3F-940B-446A-8109-23C3C3E8A732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{265A3EDE-0B22-46CF-860D-D3FDD0872225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265A3EDE-0B22-46CF-860D-D3FDD0872225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265A3EDE-0B22-46CF-860D-D3FDD0872225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265A3EDE-0B22-46CF-860D-D3FDD0872225}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
